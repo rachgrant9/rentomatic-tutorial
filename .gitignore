@@ -60,7 +60,6 @@ target/
 
 # pyenv python configuration file
 .python-version
-rentomatic-env/pyvenv.cfg
 rentomatic-env/bin/activate
 rentomatic-env/bin/activate.csh
 rentomatic-env/bin/activate.fish
@@ -71,6 +70,7 @@ rentomatic-env/bin/coverage-3.12
 rentomatic-env/bin/coverage3
 rentomatic-env/bin/docutils
 rentomatic-env/bin/flake8
+rentomatic-env/bin/flask
 rentomatic-env/bin/normalizer
 rentomatic-env/bin/pip
 rentomatic-env/bin/pip3
